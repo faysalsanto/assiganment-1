@@ -1,0 +1,41 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+.bg-image {
+    background-image: url(images/1stbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+
+}
+
+.font {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 8px;
+    border-radius: 5px;
+
+}
+
+#size {
+    font-size: xx-large;
+    font-weight: 700;
+}
