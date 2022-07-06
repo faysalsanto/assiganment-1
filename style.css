@@ -51,10 +51,12 @@ body {
     padding: 20px;
     padding-left: 100px;
 
+
 }
 
 .donat-box {
     padding: 50px;
+    margin: 10px;
 }
 
 .color {
@@ -68,7 +70,7 @@ body {
 }
 
 .color-2 {
-    background-color: honeydew;
+    background-color: azure;
 }
 
 .color-3 {
@@ -76,7 +78,7 @@ body {
 }
 
 .color-4 {
-    background-color: cornsilk;
+    background-color: azure;
 }
 
 .other {
@@ -90,4 +92,28 @@ body {
     padding: 8px;
     border-radius: 5px;
 
+}
+
+#food {
+    background-color: aliceblue;
+    margin-left: 30px;
+    padding-top: 80px;
+    background-image: url(images/food.png);
+    background-repeat: no-repeat;
+}
+
+#shelter {
+    background-color: cornsilk;
+    margin-left: 30px;
+    padding-top: 80px;
+    background-image: url(images/shelter.png);
+    background-repeat: no-repeat;
+}
+
+#education {
+    background-color: azure;
+    margin-left: 30px;
+    padding-top: 80px;
+    background-image: url(images/Frame-1.png);
+    background-repeat: no-repeat;
 }
