@@ -26,10 +26,12 @@ body {
 
 }
 
-a {
+.button {
     color: white;
+    text-align: center;
+
     text-decoration: none;
-    background-color: orangered;
+    background-color: rgb(221, 64, 7);
     padding: 8px;
     border-radius: 5px;
 
@@ -38,4 +40,54 @@ a {
 #size {
     font-size: xx-large;
     font-weight: 700;
+}
+
+.donate {
+    text-align: center;
+}
+
+.donet-info {
+    display: flex;
+    padding: 20px;
+    padding-left: 100px;
+
+}
+
+.donat-box {
+    padding: 50px;
+}
+
+.color {
+    background-color: azure;
+}
+
+.color-1 {
+    background-color: blanchedalmond;
+    border: 3px solid orangered;
+    border-radius: 5px;
+}
+
+.color-2 {
+    background-color: honeydew;
+}
+
+.color-3 {
+    background-color: azure;
+}
+
+.color-4 {
+    background-color: cornsilk;
+}
+
+.other {
+    text-align: center;
+}
+
+#button {
+
+    text-decoration: none;
+    background-color: rgb(221, 64, 7);
+    padding: 8px;
+    border-radius: 5px;
+
 }
